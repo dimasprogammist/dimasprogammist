@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @dimasprogammist
-- 👀 I’m interested in neural networks
-- 🌱 I’m currently learning Python
-- 📫 How to reach me dima0002000@gmail.com
+# Привет, я Дмитрий
 
+Работаю **программистом АСУТП**: проектирую и внедряю системы автоматизации, разрабатываю **SCADA**. Живу в России.
 
-<!---
-dimasprogammist/dimasprogammist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python для меня не основная работа, а инструмент «для жизни»: удобные программы под реальные задачи и автоматизация рутины. Параллельно увлекаюсь **робототехникой**, **3D-печатью** и вообще всем техническим — люблю разбираться в новых технологиях.
+
+Стек в пет-проектах: Python, PyQt, MySQL, Excel/PDF, сборка под Windows.
